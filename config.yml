@@ -22,8 +22,8 @@ menu:
           weight: 3
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
+    description: "I am student at Computer Engineering Department, Shairf University of Technology."
+    author: Aryan Ahadinia
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -47,20 +47,18 @@ params:
     profileMode:
           enabled: true
           title: Aryan Ahadinia
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
+          subtitle: "I am student at Computer Engineering Department, Shairf University of Technology."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Aryan Ahadinia
           buttons:
+            - name: About
+              url: /about/
             - name: Papers
               url: /papers/
-            - name: Courses
+            - name: Projects
               url: /courses/
-            - name: Design
-              url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
     socialIcons:
         - name: Email
           url: mailto:aryanahadinia@sharif.edu
@@ -80,7 +78,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Aryan Ahadinia"
       icon: /favicon.ico
       iconHeight: 18
 
