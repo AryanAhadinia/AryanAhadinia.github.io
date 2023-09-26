@@ -11,21 +11,15 @@ taxonomies:
 
 menu:
     main:
+        - name: About
+          url: /about/
+          weight: 1
         - name: Papers
           url: /papers/
-          weight: 1
-        - name: Courses
-          url: /courses/
           weight: 2
-        - name: Design
-          url: /design/
+        - name: Projects
+          url: /courses/
           weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 5     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
     description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
@@ -52,12 +46,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
+          title: Aryan Ahadinia
           subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Aryan Ahadinia
           buttons:
             - name: Papers
               url: /papers/
@@ -68,20 +62,16 @@ params:
             - name: Newsletter
               url: https://pmichaillat.substack.com
     socialIcons:
-        - name: CV
-          url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:aryanahadinia@sharif.edu
         - name: Location
           url: /location/
         - name: Office Hours
           url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=C5-a0JIAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/AryanAhadinia
 
     assets:
         disableHLJS: true
