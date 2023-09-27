@@ -29,6 +29,7 @@ editPost:
 
 ##### Note
 
+This is a summary of my BSc thesis. The full text is available [here](/AryanAhadiniaBScThesis.pdf).
 
 ##### Collaborators
 
