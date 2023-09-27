@@ -68,9 +68,15 @@ params:
           url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=C5-a0JIAAAAJ&hl=en
+        - name: orcid
+          url: https://orcid.org/0009-0006-1768-5511
         - name: GitHub
           url: https://github.com/AryanAhadinia
-
+        - name: telegram
+          url: https://t.me/AryanAhadinia
+        - name: linkedin
+          url: https://www.linkedin.com/in/ahadinia/
+          
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
