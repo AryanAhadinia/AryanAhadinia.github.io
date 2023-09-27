@@ -5,7 +5,7 @@ show_date: false
 url: /AudioTextLocalizer/
 aliases: 
     - /AudioTextLocalizer.html
-tags: ["Contrastive Learning", "Audio", "Text Localization"]
+tags: ["Contrastive Learning", "Audio", "Text Localization", "Natural Language Processing"]
 author: "Aryan Ahadinia, in a group work"
 summary: "" 
 cover:
