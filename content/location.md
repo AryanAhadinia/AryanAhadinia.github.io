@@ -11,7 +11,7 @@ description: "My address at Sharif University"
 
 #### Contact Me
 
-Computer Engineering Department
+Department of Computer Engineering
 Sharif University of Technology
 Tehran, Tehran Province, Iran
 
