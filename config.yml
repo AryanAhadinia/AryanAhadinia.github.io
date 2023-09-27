@@ -28,7 +28,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -76,13 +76,12 @@ params:
           url: https://t.me/AryanAhadinia
         - name: linkedin
           url: https://www.linkedin.com/in/ahadinia/
-          
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
-        hiddenInSingle: true
+        hiddenInList: false
+        hiddenInSingle: false
     label:
       text: "Aryan Ahadinia"
       icon: /favicon.ico

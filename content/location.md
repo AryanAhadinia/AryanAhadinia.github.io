@@ -1,6 +1,7 @@
 ---
 title: "Location"
 aliases:
+    - /contact
     - /contact.html
 hidemeta: true
 description: "My address at Sharif University"
