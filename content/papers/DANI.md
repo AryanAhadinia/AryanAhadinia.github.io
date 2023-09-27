@@ -1,9 +1,8 @@
 ---
 title: "DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property" 
 date: 2023-09-18
-url: /2/
+url: /DANI/
 aliases: 
-    - /DANI
     - /DANI.html
 tags: ["Network Science", "Social Networks", "Network Inference", "Diffusion Information", "Topological Structure"]
 author: "Maryam Ramezani, Aryan Ahadinia, Erfan Farhadi, and Hamid R. Rabiee"

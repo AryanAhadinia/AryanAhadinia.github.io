@@ -1,9 +1,8 @@
 ---
 title: "Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization" 
 date: 2023-07-18
-url: /1/
+url: /DiffStru/
 aliases: 
-    - /DiffStru
     - /DiffStru.html
     - /10.1145/3599237
 tags: ["Social Network", "Information Diffusion", "Partially Observed Data", "Network Structure", "Matrix Factorization", "Link Prediction", "Cascade Completion", "Bayesian Computation", "Coupled Matrix Factorization"]
