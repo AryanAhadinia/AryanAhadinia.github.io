@@ -22,7 +22,7 @@ editPost:
 
 ##### Links
 
-+ [GitHub](https://doi.org/10.1145/3599237)
++ [PDF](/AryanAhadiniaBScThesis.pdf)
 
 ##### Abstract
 
@@ -30,7 +30,3 @@ editPost:
 ##### Note
 
 This is a summary of my BSc thesis. The full text is available [here](/AryanAhadiniaBScThesis.pdf).
-
-##### Collaborators
-
-Aryan Ahadinia, MohammadMahdi Abotorabi, Arshan Dalili, ..., Ehsaneddin Asgari
