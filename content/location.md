@@ -11,8 +11,8 @@ description: "My address at Sharif University"
 
 #### Contact Me
 
-Department of Computer Engineering,
-Sharif University of Technology,
+Department of Computer Engineering, <br/>
+Sharif University of Technology, <br/>
 Tehran, Tehran Province, Iran
 
 Email: aryan.ahadinia@sharif.edu
