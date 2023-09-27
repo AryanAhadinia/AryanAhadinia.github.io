@@ -18,7 +18,7 @@ menu:
           url: /papers/
           weight: 2
         - name: Projects
-          url: /courses/
+          url: /projects/
           weight: 3
 
 params:
@@ -58,7 +58,7 @@ params:
             - name: Papers
               url: /papers/
             - name: Projects
-              url: /courses/
+              url: /projects/
     socialIcons:
         - name: Email
           url: mailto:aryanahadinia@sharif.edu
