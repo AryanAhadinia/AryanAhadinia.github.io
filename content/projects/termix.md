@@ -1,15 +1,15 @@
 ---
-title: "Text Localization in Audio" 
+title: "Termix" 
 date: 2023-07-18
 show_date: false
-url: /AudioTextLocalizer/
+url: /termix/
 aliases: 
-    - /AudioTextLocalizer.html
+    - /termix.html
 tags: []
 author: "Aryan Ahadinia, in a group work"
 summary: "" 
 cover:
-    image: "/AudioTextLocalizer.png"
+    image: "/termix.png"
     alt: ""
     relative: true
 editPost:
