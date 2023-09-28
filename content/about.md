@@ -119,7 +119,7 @@ description: "About Aryan Ahadinia"
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 70%;
+        width: 85%;
     }
 </style>
 
