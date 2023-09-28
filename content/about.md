@@ -146,6 +146,9 @@ description: "About Aryan Ahadinia"
         <img class="logo" src="/Skills/Kotlin.png" alt="C Language">
     </div>
     <div>
+        <img class="logo" src="/Skills/Swift.png" alt="C Language">
+    </div>
+    <div>
         <img class="logo" src="/Skills/R.png" alt="C Language">
     </div>
     <div>
