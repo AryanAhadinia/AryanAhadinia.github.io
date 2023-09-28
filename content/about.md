@@ -31,11 +31,6 @@ description: "About Aryan Ahadinia"
         text-align: center;
         align-items: center;
         justify-content: center;
-        display: flex;
-    }
-
-    #grid > img {
-        margin: 0 auto;
     }
 </style>
 
