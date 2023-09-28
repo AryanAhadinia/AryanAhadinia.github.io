@@ -12,7 +12,7 @@ description: "About Aryan Ahadinia"
 
 ---
 
-## Education
+<!-- ## Education
 
 <div>
     <style>
@@ -70,7 +70,7 @@ description: "About Aryan Ahadinia"
             <div class="gpa">GPA: 19.50/20.00</div>
         </div>
     </div>
-</div>
+</div> -->
 
 ---
 
