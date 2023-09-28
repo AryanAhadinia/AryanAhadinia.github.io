@@ -33,15 +33,13 @@ description: "About Aryan Ahadinia"
 </style>
 
 <div id="grid">
-    <div>1</div>
-    <div>2</div>
-    <div>3</div>
-    <div>4</div>
-    <div>5</div>
-    <div>6</div>
-    <div>7</div>
-    <div>8</div>
-    <div>9</div>
+    <div>
+        <img src="/Sharif.png" alt="Sharif University of Technology" width="80%"></img>
+        <p>Sharif University of Technology</p>
+        <p>2016 - 2020</p>
+        <p>B.Sc. in Computer Engineering</p>
+        <p>GPA: 19.31/20</p>
+    </div>
 </div>
 
 </div>
