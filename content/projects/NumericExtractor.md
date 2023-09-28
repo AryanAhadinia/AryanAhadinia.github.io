@@ -1,6 +1,6 @@
 ---
 title: "Numeric Extractor" 
-date: 2023-07-18
+date: 2022-04-01
 show_date: false
 url: /NumericExtractor/
 aliases: 
@@ -9,13 +9,26 @@ tags: []
 author: "Aryan Ahadinia"
 summary: "" 
 cover:
-    image: "/NumericExtractor.png"
+    image: "/NumericExtractor/cover.png"
     alt: ""
     relative: true
 editPost:
-    URL: "/AryanAhadiniaBScThesis.pdf"
+    URL: "https://github.com/AryanAhadinia/NumericExtractor"
     Text: "GitHub"
 
 ---
 
 ---
+
+##### Links
+
++ [GitHub](https://github.com/AryanAhadinia/NumericExtractor)
++ [Report](https://github.com/AryanAhadinia/NumericExtractor/blob/main/MIR%20HW1%20.pdf)
+
+##### Abstract
+
+
+
+##### Collaborators
+
+This project has been done in collaboration with Dana Afazeli and Mohammad Abolnejadian.
