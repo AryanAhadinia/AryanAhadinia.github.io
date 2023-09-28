@@ -79,6 +79,7 @@ description: "About Aryan Ahadinia"
 
 ## Publications
 
+There is a list of my publications with a brief description about them in [publication page](/publications).
 ---
 
 ## Ongoing Research Projects
@@ -98,6 +99,8 @@ description: "About Aryan Ahadinia"
 ---
 
 ## Skills
+
+### Machine Learning
 
 ### Programming
 
@@ -159,10 +162,6 @@ description: "About Aryan Ahadinia"
 </div>
 
 </div>
-
----
-
-## Notable Courses
 
 ---
 
