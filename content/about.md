@@ -12,7 +12,7 @@ description: "About Aryan Ahadinia"
 
 ---
 
-#### Education
+## Education
 
 <div>
 
