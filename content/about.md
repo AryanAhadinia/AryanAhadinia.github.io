@@ -167,7 +167,90 @@ There is a list of my publications with a brief description about them in [publi
         <img class="logo" src="/Skills/Matlab.png" alt="Matlab Language">
         <div class="title">Matlab</div>
     </div>
+    <div>
+        <img class="logo" src="/Skills/Dart.png" alt="Dart Language">
+        <div class="title">Dart</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Go.png" alt="Go Language">
+        <div class="title">GoLang</div>
+    </div>
 </div>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="/Skills/Android.png" alt="Android Programming">
+        <div class="title">Android Programming</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Docker.png" alt="Docker">
+        <div class="title">Docker</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Git.png" alt="Git">
+        <div class="title">Git</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/iOS.png" alt="iOS Programming">
+        <div class="title">iOS Programming</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Linux.png" alt="Linux">
+        <div class="title">Linux</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/MongoDB.png" alt="MongoDB">
+        <div class="title">MongoDB</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PostgreSQL.png" alt="PostgreSQL">
+        <div class="title">PostgreSQL</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Verilog.png" alt="Verilog">
+        <div class="title">Verilog</div>
+    </div>
+</div>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="/Skills/Keras.png" alt="Keras">
+        <div class="title">Keras</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/NetworkX.png" alt="NetworkX">
+        <div class="title">NetworkX</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/NumPy.png" alt="NumPy">
+        <div class="title">NumPy</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PYG.png" alt="PyTorch Geometric">
+        <div class="title">PyTorch Geometric</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PyTorch.png" alt="PyTorch">
+        <div class="title">PyTorch</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Ray.png" alt="Ray">
+        <div class="title">Ray</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/ScikitLearn.png" alt="Scikit Learn">
+        <div class="title">Scikit Learn</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Seaborn.png" alt="Seaborn">
+        <div class="title">Seaborn</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Tensorflow.png" alt="Tensorflow">
+        <div class="title">Tensorflow</div>
+    </div>
+</div>
+
 
 </div>
 
