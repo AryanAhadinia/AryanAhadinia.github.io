@@ -18,43 +18,43 @@ description: "About Aryan Ahadinia"
 <div>
 
 <style>
-#education-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 5px;
-}
+    #education-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-gap: 5px;
+    }
 
-#education-grid > div {
-    padding: .5em;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-}
+    #education-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
 
-#education-grid > div > img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-}
+    #education-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
 
-#education-grid > div > .institution {
-    font-size: 1.2em;
-    font-weight: bold;
-}
+    #education-grid > div > .institution {
+        font-size: 1.2em;
+        font-weight: bold;
+    }
 
-#education-grid > div > .degree {
-    font-size: 1.05em;
-    font-weight: bold;
-}
+    #education-grid > div > .degree {
+        font-size: 1.05em;
+        font-weight: bold;
+    }
 
-#education-grid > div > .date {
-    color: gray;
-}
+    #education-grid > div > .date {
+        color: gray;
+    }
 
-#education-grid > div > .gpa {
-    color: gray;
-}
+    #education-grid > div > .gpa {
+        color: gray;
+    }
 </style>
 
 <div id="education-grid">
