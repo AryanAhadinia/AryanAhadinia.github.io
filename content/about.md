@@ -29,6 +29,9 @@ description: "About Aryan Ahadinia"
         color: #ffffff;
         background: #1c87c9;
         text-align: center;
+        align-items: center;
+        justify-content: center;
+        display: flex;
     }
 
     #grid > img {
