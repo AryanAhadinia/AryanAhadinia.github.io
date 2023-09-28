@@ -160,10 +160,6 @@ description: "About Aryan Ahadinia"
 
 ---
 
-## Languages
-
----
-
 ## Notable Courses
 
 ---
