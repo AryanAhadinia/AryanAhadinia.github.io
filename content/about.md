@@ -99,6 +99,8 @@ description: "About Aryan Ahadinia"
 
 ## Skills
 
+### Programming
+
 <div>
 
 <style>
