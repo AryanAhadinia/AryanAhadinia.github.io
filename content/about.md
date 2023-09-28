@@ -84,10 +84,6 @@ There is a list of my publications with a brief description about them in [publi
 
 ---
 
-## Ongoing Research Projects
-
----
-
 ## Honors and Awards
 
 ---
