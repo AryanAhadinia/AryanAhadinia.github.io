@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About Me"
 aliases:
     - /mini_cv
     - /mini_cv.html
