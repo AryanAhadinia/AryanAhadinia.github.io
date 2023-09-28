@@ -30,15 +30,19 @@ description: "About Aryan Ahadinia"
         background: #1c87c9;
         text-align: center;
     }
+
+    #grid > img {
+        margin: 0 auto;
+    }
 </style>
 
 <div id="grid">
     <div>
         <img src="/Institutes/Sharif.png" alt="Sharif University of Technology" width="80%">
-        <p>Sharif University of Technology</p>
-        <p>2016 - 2020</p>
-        <p>B.Sc. in Computer Engineering</p>
-        <p>GPA: 19.31/20</p>
+        <div class="institution">Sharif University of Technology</div>
+        <div class="degree">B.Sc. in Computer Engineering</div>
+        <div class="date">2019 - 2023</div>
+        <div class="gpa">GPA: 19.31/20.00</div>
     </div>
 </div>
 
