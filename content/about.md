@@ -30,6 +30,13 @@ description: "About Aryan Ahadinia"
         justify-content: center;
     }
 
+    #grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+
     .institution {
         font-size: 1.2em;
         font-weight: bold;
@@ -51,14 +58,14 @@ description: "About Aryan Ahadinia"
 
 <div id="grid">
     <div>
-        <img class="logo" src="/Institutes/Sharif.png" alt="Sharif University of Technology" width="70%">
+        <img class="logo" src="/Institutes/Sharif.png" alt="Sharif University of Technology">
         <div class="institution">Sharif University of Technology</div>
         <div class="degree">B.Sc. in Computer Engineering</div>
         <div class="date">2019 - 2023</div>
         <div class="gpa">GPA: 19.31/20.00</div>
     </div>
     <div>
-        <img class="logo" src="/Institutes/Helli.png" alt="Allameh Helli High School" width="70%">
+        <img class="logo" src="/Institutes/Helli.png" alt="Allameh Helli High School">
         <div class="institution">Allameh Helli High School</div>
         <div class="degree">Diploma in Mathematics and Physics</div>
         <div class="date">2016 - 2019</div>
