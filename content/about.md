@@ -44,6 +44,13 @@ description: "About Aryan Ahadinia"
         <div class="date">2019 - 2023</div>
         <div class="gpa">GPA: 19.31/20.00</div>
     </div>
+    <div>
+        <img src="/Institutes/Helli.png" alt="Allameh Helli High School" width="80%">
+        <div class="institution">Allameh Helli High School</div>
+        <div class="degree">Diploma in Mathematics and Physics</div>
+        <div class="date">2019 - 2019</div>
+        <div class="gpa">GPA: 19.50/20.00</div>
+    </div>
 </div>
 
 <!-- markdown image -->
