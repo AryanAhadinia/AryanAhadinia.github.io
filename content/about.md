@@ -73,8 +73,6 @@ description: "About Aryan Ahadinia"
     </div>
 </div>
 
-<!-- markdown image -->
-
 </div>
 
 ---
@@ -100,6 +98,62 @@ description: "About Aryan Ahadinia"
 ---
 
 ## Skills
+
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+</style>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="/Skills/C.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/C++.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Java.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Python.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Julia.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/JavaScript.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Kotlin.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/R.png" alt="C Language">
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Matlab.png" alt="C Language">
+    </div>
+</div>
+
+</div>
 
 ---
 
