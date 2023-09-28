@@ -38,6 +38,8 @@ description: "About Aryan Ahadinia"
 
 #### Skills
 
+![Python][/Python.png]
+
 ---
 
 #### Languages
