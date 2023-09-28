@@ -128,31 +128,31 @@ description: "About Aryan Ahadinia"
         <img class="logo" src="/Skills/C.png" alt="C Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/C++.png" alt="C Language">
+        <img class="logo" src="/Skills/C++.png" alt="C++ Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/Java.png" alt="C Language">
+        <img class="logo" src="/Skills/Java.png" alt="Java Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/Python.png" alt="C Language">
+        <img class="logo" src="/Skills/Python.png" alt="Python Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/Julia.png" alt="C Language">
+        <img class="logo" src="/Skills/Julia.png" alt="Julia Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/JavaScript.png" alt="C Language">
+        <img class="logo" src="/Skills/JavaScript.png" alt="JavaScript Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/Kotlin.png" alt="C Language">
+        <img class="logo" src="/Skills/Kotlin.png" alt="Kotlin Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/Swift.png" alt="C Language">
+        <img class="logo" src="/Skills/Swift.png" alt="Swift Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/R.png" alt="C Language">
+        <img class="logo" src="/Skills/R.png" alt="R Language">
     </div>
     <div>
-        <img class="logo" src="/Skills/Matlab.png" alt="C Language">
+        <img class="logo" src="/Skills/Matlab.png" alt="Matlab Language">
     </div>
 </div>
 
