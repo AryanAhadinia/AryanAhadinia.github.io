@@ -100,6 +100,71 @@ There is a list of my publications with a brief description about them in [publi
 
 ### Machine Learning
 
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+</style>
+
+<div id="skills-grid">
+    <div>
+        <img class="logo" src="/Skills/Keras.png" alt="Keras">
+        <div class="title">Keras</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/NetworkX.png" alt="NetworkX">
+        <div class="title">NetworkX</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/NumPy.png" alt="NumPy">
+        <div class="title">NumPy</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PYG.png" alt="PyTorch Geometric">
+        <div class="title">PyTorch Geometric</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PyTorch.png" alt="PyTorch">
+        <div class="title">PyTorch</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Ray.png" alt="Ray">
+        <div class="title">Ray</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/ScikitLearn.png" alt="Scikit Learn">
+        <div class="title">Scikit Learn</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Seaborn.png" alt="Seaborn">
+        <div class="title">Seaborn</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/Tensorflow.png" alt="Tensorflow">
+        <div class="title">Tensorflow</div>
+    </div>
+</div>
+
+</div>
+
 ### Programming
 
 <div>
@@ -172,10 +237,38 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">Dart</div>
     </div>
     <div>
-        <img class="logo" src="/Skills/Go.png" alt="Go Language">
+        <img class="logo" src="/Skills/Golang.png" alt="Go Language">
         <div class="title">GoLang</div>
     </div>
 </div>
+
+</div>
+
+### Development
+
+<div>
+
+<style>
+    #skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #skills-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #skills-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;
+    }
+</style>
 
 <div id="skills-grid">
     <div>
@@ -211,46 +304,6 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">Verilog</div>
     </div>
 </div>
-
-<div id="skills-grid">
-    <div>
-        <img class="logo" src="/Skills/Keras.png" alt="Keras">
-        <div class="title">Keras</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/NetworkX.png" alt="NetworkX">
-        <div class="title">NetworkX</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/NumPy.png" alt="NumPy">
-        <div class="title">NumPy</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/PYG.png" alt="PyTorch Geometric">
-        <div class="title">PyTorch Geometric</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/PyTorch.png" alt="PyTorch">
-        <div class="title">PyTorch</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/Ray.png" alt="Ray">
-        <div class="title">Ray</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/ScikitLearn.png" alt="Scikit Learn">
-        <div class="title">Scikit Learn</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/Seaborn.png" alt="Seaborn">
-        <div class="title">Seaborn</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/Tensorflow.png" alt="Tensorflow">
-        <div class="title">Tensorflow</div>
-    </div>
-</div>
-
 
 </div>
 
