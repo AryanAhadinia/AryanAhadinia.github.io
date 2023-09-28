@@ -29,6 +29,28 @@ description: "About Aryan Ahadinia"
         align-items: center;
         justify-content: center;
     }
+
+    .institution {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    .degree {
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    .date {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: gray;
+    }
+
+    .gpa {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: gray;
+    }
 </style>
 
 <div id="grid">
