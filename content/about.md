@@ -12,6 +12,40 @@ description: "About Aryan Ahadinia"
 
 #### Education
 
+---
 
+#### Publications
+
+---
+
+#### Ongoing Research Projects
+
+---
+
+#### Honors and Awards
+
+---
+
+#### Teaching Experience
+
+---
+
+#### Professional Experience
+
+---
+
+#### Skills
+
+---
+
+#### Languages
+
+---
+
+#### Notable Courses
+
+---
+
+#### Projects
 
 ---
