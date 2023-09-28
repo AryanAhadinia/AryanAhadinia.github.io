@@ -72,7 +72,7 @@ description: "About Aryan Ahadinia"
 
 ---
 
-#### Publications
+### Publications
 
 ---
 
