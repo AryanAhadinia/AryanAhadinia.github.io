@@ -41,14 +41,10 @@ description: "About Aryan Ahadinia"
     }
 
     .date {
-        font-size: 1.2em;
-        font-weight: bold;
         color: gray;
     }
 
     .gpa {
-        font-size: 1.2em;
-        font-weight: bold;
         color: gray;
     }
 </style>
