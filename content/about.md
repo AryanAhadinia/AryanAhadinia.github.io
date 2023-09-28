@@ -24,10 +24,7 @@ description: "About Aryan Ahadinia"
     }
 
     #grid > div {
-        font-size: 30px;
         padding: .5em;
-        color: #ffffff;
-        background: #1c87c9;
         text-align: center;
         align-items: center;
         justify-content: center;
