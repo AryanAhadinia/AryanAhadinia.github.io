@@ -34,13 +34,15 @@ description: "About Aryan Ahadinia"
 
 <div id="grid">
     <div>
-        <img src="/Sharif.png" alt="Sharif University of Technology" width="80%"></img>
+        <img src="/Institutes/Sharif.png" alt="Sharif University of Technology" width="80%">
         <p>Sharif University of Technology</p>
         <p>2016 - 2020</p>
         <p>B.Sc. in Computer Engineering</p>
         <p>GPA: 19.31/20</p>
     </div>
 </div>
+
+<!-- markdown image -->
 
 </div>
 
