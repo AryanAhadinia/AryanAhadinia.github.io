@@ -31,12 +31,12 @@ description: "About Aryan Ahadinia"
     }
 
     .institution {
-        font-size: 1.5em;
+        font-size: 1.2em;
         font-weight: bold;
     }
 
     .degree {
-        font-size: 1.1em;
+        font-size: 1.05em;
         font-weight: bold;
     }
 
@@ -61,7 +61,7 @@ description: "About Aryan Ahadinia"
         <img class="logo" src="/Institutes/Helli.png" alt="Allameh Helli High School" width="70%">
         <div class="institution">Allameh Helli High School</div>
         <div class="degree">Diploma in Mathematics and Physics</div>
-        <div class="date">2019 - 2019</div>
+        <div class="date">2016 - 2019</div>
         <div class="gpa">GPA: 19.50/20.00</div>
     </div>
 </div>
