@@ -12,8 +12,9 @@ description: "About Aryan Ahadinia"
 
 ---
 
-<!-- ## Education
+## Education
 
+<!--
 <div>
     <style>
         #education-grid {
@@ -76,7 +77,7 @@ description: "About Aryan Ahadinia"
 
 ## Publications
 
-There is a list of my publications with a brief description about them in [publication page](/publications).
+There is a list of my publications with a brief description about them in [publication](/publications) page.
 
 ---
 
@@ -164,5 +165,7 @@ There is a list of my publications with a brief description about them in [publi
 ---
 
 ## Projects
+
+There is a list of my projects with a brief description about them in [projects](/projects) page.
 
 ---
