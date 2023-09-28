@@ -126,24 +126,24 @@ There is a list of my publications with a brief description about them in [publi
 
 <div id="skills-grid">
     <div>
-        <img class="logo" src="/Skills/Keras.png" alt="Keras">
-        <div class="title">Keras</div>
+        <img class="logo" src="/Skills/PyTorch.png" alt="PyTorch">
+        <div class="title">PyTorch</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/PYG.png" alt="PyTorch Geometric">
+        <div class="title">Torch Geo.</div>
     </div>
     <div>
         <img class="logo" src="/Skills/NetworkX.png" alt="NetworkX">
         <div class="title">NetworkX</div>
     </div>
     <div>
-        <img class="logo" src="/Skills/NumPy.png" alt="NumPy">
-        <div class="title">NumPy</div>
+        <img class="logo" src="/Skills/Tensorflow.png" alt="Tensorflow">
+        <div class="title">Tensorflow</div>
     </div>
     <div>
-        <img class="logo" src="/Skills/PYG.png" alt="PyTorch Geometric">
-        <div class="title">PyTorch Geometric</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/PyTorch.png" alt="PyTorch">
-        <div class="title">PyTorch</div>
+        <img class="logo" src="/Skills/Keras.png" alt="Keras">
+        <div class="title">Keras</div>
     </div>
     <div>
         <img class="logo" src="/Skills/Ray.png" alt="Ray">
@@ -156,10 +156,6 @@ There is a list of my publications with a brief description about them in [publi
     <div>
         <img class="logo" src="/Skills/Seaborn.png" alt="Seaborn">
         <div class="title">Seaborn</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/Tensorflow.png" alt="Tensorflow">
-        <div class="title">Tensorflow</div>
     </div>
 </div>
 
