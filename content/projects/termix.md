@@ -28,9 +28,8 @@ editPost:
 
 ##### Preview
 
-<video controls autoplay>
-    <source src="/Termix/termix.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://raw.githubusercontent.com/AryanAhadinia/AryanAhadinia.github.io/main/static/Termix/Termix.mp4" type="video/mp4">
 </video>
 
 ---
