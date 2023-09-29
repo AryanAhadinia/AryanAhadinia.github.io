@@ -100,6 +100,65 @@ There is a list of my publications with a brief description about them in [publi
 
 ## Professional Experience
 
+<div>
+
+<style>
+    #prof-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-gap: 5px;
+    }
+
+    #prof-grid > div {
+        padding: .5em;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #prof-grid > div > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+
+    #prof-grid > div > .institution {
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    #prof-grid > div > .degree {
+        font-size: 1.05em;
+        font-weight: bold;
+    }
+
+    #prof-grid > div > .date {
+        color: gray;
+    }
+
+    #prof-grid > div > .gpa {
+        color: gray;
+    }
+</style>
+
+<div id="prof-grid">
+    <div>
+        <img class="logo" src="/Institutes/Sharif.png" alt="Sharif University of Technology">
+        <div class="institution">Sharif University of Technology</div>
+        <div class="degree">Undergraduate Researcher</div>
+        <div class="date">2021 - Present</div>
+    </div>
+    <div>
+        <img class="logo" src="/Institutes/Wize.png" alt="Allameh Helli High School">
+        <div class="institution">Wize Analytics</div>
+        <div class="degree">MLOps Engineer</div>
+        <div class="date">2022 (Summer Intern)</div>
+    </div>
+</div>
+
+</div>
+
 ---
 
 ## Skills
