@@ -349,6 +349,14 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">Git</div>
     </div>
     <div>
+        <img class="logo" src="/Skills/Django.png" alt="Django">
+        <div class="title">Django</div>
+    </div>
+    <div>
+        <img class="logo" src="/Skills/React.png" alt="React">
+        <div class="title">React</div>
+    </div>
+    <div>
         <img class="logo" src="/Skills/Android.png" alt="Android Programming">
         <div class="title">And. Prog.</div>
     </div>
