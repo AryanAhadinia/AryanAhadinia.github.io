@@ -150,6 +150,10 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">Ray</div>
     </div>
     <div>
+        <img class="logo" src="/Skills/mlflow.png" alt="MLFlow">
+        <div class="title">MLFlow</div>
+    </div>
+    <div>
         <img class="logo" src="/Skills/ScikitLearn.png" alt="Scikit Learn">
         <div class="title">Scikit Learn</div>
     </div>
