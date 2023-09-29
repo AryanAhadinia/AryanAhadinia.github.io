@@ -39,3 +39,5 @@ Text localization in audio involves the identification and localization of relev
 ---
 
 ##### Collaborators
+
+This work has been done in a group work with MohammadMahdi Abootorabi, Arshan Dalili, Parsa Haghighi, Saeed Foroutan, Sina Rashidi, and under supervision of Dr. Ehsannedin Asgari as a part of _Natural Language Processing_ course at Sharif University of Technology.

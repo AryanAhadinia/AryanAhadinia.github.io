@@ -2,7 +2,7 @@
 title: "Termix" 
 date: 2023-07-18
 show_date: false
-url: /termix/
+url: /Termix/
 aliases: 
     - /termix.html
 tags: []
