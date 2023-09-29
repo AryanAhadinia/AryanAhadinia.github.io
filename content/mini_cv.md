@@ -381,6 +381,10 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">PostgreSQL</div>
     </div>
     <div>
+        <img class="logo" src="/Skills/InfluxDB.png" alt="InfluxDB">
+        <div class="title">InfluxDB</div>
+    </div>
+    <div>
         <img class="logo" src="/Skills/Verilog.png" alt="Verilog">
         <div class="title">Verilog</div>
     </div>
