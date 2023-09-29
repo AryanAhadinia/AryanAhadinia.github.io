@@ -43,7 +43,7 @@ For the English language, a portion of the [LibriSpeech](https://www.kaggle.com/
 ###### Audio Segmentation
 
 In order to effectively localize a text within an input audio stream, it is necessary to first segment the audio into discrete sections. This segmentation enables the identification of those segments that are most relevant to the query text.
-Also, given the large variance in the duration of audio files, ranging from a few minutes to hours, it is essential to segment them into smaller chunks for effective training of acoustic models. 
+Also, given the large variance in the duration of audio files, ranging from a few minutes to hours, it is essential to segment them into smaller chunks for effective training of acoustic models.
 To this end, a segmentation technique that detects silences and generates segments of at least 10 seconds in length was applied.
 
 ![Audio segmentation](/AudioTextLocalizer/segmentation.png)
