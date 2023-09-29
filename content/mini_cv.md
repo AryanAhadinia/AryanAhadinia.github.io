@@ -96,6 +96,9 @@ There is a list of my publications with a brief description about them in [publi
 
 ## Teaching Experience
 
++ **Head Teaching Assistant** of _CE282: Linear Algebra_ for 4 Semesters, Spring 2022, Fall 2022, Spring 2023, Fall 2023. Jointly instructed by Dr. Rabiee and Dr. Ramezani.
++ **Head Teaching Assistant** of _CE417: Artificial Intelligence_ for 2 Semesters, Spring 2023, and Fall 2023. Jointly instructed by Dr. Rohban and Dr. Soleymani.
+
 ---
 
 ## Professional Experience
