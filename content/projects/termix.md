@@ -13,7 +13,7 @@ cover:
     alt: ""
     relative: true
 editPost:
-    URL: "https://github.com/NLP-Final-Projects/AudioTextLocalizer"
+    URL: ""
     Text: "GitHub"
 
 ---
@@ -22,7 +22,7 @@ editPost:
 
 ##### Links
 
-+ [GitHub](https://github.com/AryanAhadinia/NumericExtractor)
++ [GitHub]()
 
 ---
 
