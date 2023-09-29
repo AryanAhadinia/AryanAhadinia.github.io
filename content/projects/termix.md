@@ -44,6 +44,10 @@ A dozens of technologies have been used in this project such as Django, Django R
 
 Termix also has a Android version which is written in Java and has additional features such as alarming and notification.
 
+<video controls="" width="50%" muted="" loop="" autoplay="">
+<source src="https://raw.githubusercontent.com/AryanAhadinia/AryanAhadinia.github.io/main/static/Termix/mobile.mp4" type="video/mp4">
+</video>
+
 ---
 
 ##### Note on New Version Release
