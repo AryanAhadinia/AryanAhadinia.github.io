@@ -28,7 +28,7 @@ editPost:
 
 ##### Preview
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<video controls="" width="100%" muted="" loop="" autoplay="">
 <source src="https://raw.githubusercontent.com/AryanAhadinia/AryanAhadinia.github.io/main/static/Termix/Termix.mp4" type="video/mp4">
 </video>
 
