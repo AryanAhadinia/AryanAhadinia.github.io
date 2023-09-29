@@ -9,7 +9,7 @@ tags: []
 author: "Aryan Ahadinia, in a group work"
 summary: "" 
 cover:
-    image: "/termix.png"
+    image: "/Termix/cover.png"
     alt: ""
     relative: true
 editPost:
@@ -23,5 +23,14 @@ editPost:
 ##### Links
 
 + [GitHub](https://github.com/AryanAhadinia/NumericExtractor)
+
+---
+
+##### Preview
+
+<video controls autoplay>
+    <source src="/Termix/termix.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
