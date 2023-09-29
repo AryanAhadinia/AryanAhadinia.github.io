@@ -89,7 +89,7 @@ There is a list of my publications with a brief description about them in [publi
 + **Brilliant Talent Award for Direct Master’s Admission** to Master of Science in Computer Engineering at Sharif University of Technology, 2023
 + **Ranked 10th in National Olympiad of Computer Science and Engineering** held by Ministry of Science Research and Technology, 2023
 + **ACM Professional Member**, 2023
-+ **Ranked Top 0.1% in Nation-wide University Entry Exam**, 2019
++ **Ranked Top 0.1% in Nation-wide University Entry Exam** among ≈150,000 participants, 2019
 + **Student at National Organization for Development of Exceptional Talents**, Admitted and Graduated from NODET, Acceptance rate is ≈1%, 2019
 
 ---
