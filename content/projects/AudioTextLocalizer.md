@@ -60,6 +60,22 @@ We use various methods such as PKE, BERT-based Language Model, YAKE algorithm, M
 
 ##### Model
 
+###### Baseline
+
+In the baseline model, we take a text and an audio and then chunk the audio using rule-based methods. We the use ASR models to get the text of audio, and then, we calculate the similarity of the query text and the text extracted from audio. Finally, we retrieve the relevant chunks of audio based on this similarity.
+
+###### Proposed Model
+
+In our proposed model, we train them using Unsupervised Contrastive Learning paradigm, where for batches of pairs of text and audio, the model will learn to encode audios and text to a shared embedding space and maximize the similarity between pairs and minimize the similarity between text and audio from different pairs. In the inference time, the model accepts a text query and chunks of audio and will return the similarity score between the text and the audio chunks.
+
+Training Time:
+
+![Proposed Model Training Time](/AudioTextLocalizer/training.png)
+
+Inference Time:
+
+![Proposed Model Inference Time](/AudioTextLocalizer/inference.png)
+
 ---
 
 ##### Collaborators
