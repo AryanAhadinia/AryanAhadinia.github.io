@@ -11,24 +11,24 @@ taxonomies:
 
 menu:
     main:
-        - name: About
-          url: /about/
+        - name: Mini CV
+          url: /mini_cv/
           weight: 1
-        - name: Papers
-          url: /papers/
+        - name: Publications
+          url: /publications/
           weight: 2
         - name: Projects
           url: /projects/
           weight: 3
 
 params:
-    description: "I am student at Computer Engineering Department, Shairf University of Technology."
+    description: "I am student at Computer Engineering Department, Sharif University of Technology."
     author: Aryan Ahadinia
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -47,16 +47,16 @@ params:
     profileMode:
           enabled: true
           title: Aryan Ahadinia
-          subtitle: "I am student at Computer Engineering Department, Shairf University of Technology."
+          subtitle: "I am student at Computer Engineering Department, Sharif University of Technology."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Aryan Ahadinia
           buttons:
-            - name: About
-              url: /about/
-            - name: Papers
-              url: /papers/
+            - name: Mini CV
+              url: /mini_cv/
+            - name: Publications
+              url: /publications/
             - name: Projects
               url: /projects/
     socialIcons:

@@ -1,10 +1,11 @@
 ---
-title: "About Me"
+title: "Mini CV"
 aliases:
+    - /mini_cv.html
     - /cv
     - /cv.html
-    - /mini_cv
-    - /mini_cv.html
+    - /about
+    - /about.html
 hidemeta: true
 description: "About Aryan Ahadinia"
 
@@ -13,7 +14,6 @@ description: "About Aryan Ahadinia"
 ---
 
 ## Education
-
 
 <div>
 
