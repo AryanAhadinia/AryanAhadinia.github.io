@@ -13,9 +13,15 @@ cover:
     alt: ""
     relative: true
 editPost:
-    URL: ""
+    URL: "https://github.com/IR1401-Spring-Final-Projects/Qoogle"
     Text: "GitHub"
 
 ---
+
+---
+
+##### Links
+
++ [GitHub](https://github.com/IR1401-Spring-Final-Projects/Qoogle)
 
 ---

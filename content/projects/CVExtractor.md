@@ -13,9 +13,15 @@ cover:
     alt: ""
     relative: true
 editPost:
-    URL: "/AryanAhadiniaBScThesis.pdf"
+    URL: "https://github.com/AryanAhadinia/CV-Reader"
     Text: "GitHub"
 
 ---
+
+---
+
+##### Links
+
++ [GitHub](https://github.com/AryanAhadinia/CV-Reader)
 
 ---

@@ -25,10 +25,4 @@ editPost:
 + [GitHub](https://github.com/AryanAhadinia/NumericExtractor)
 + [Report](https://github.com/AryanAhadinia/NumericExtractor/blob/main/MIR%20HW1%20.pdf)
 
-##### Abstract
-
-
-
-##### Collaborators
-
-This project has been done in collaboration with Dana Afazeli and Mohammad Abolnejadian.
+---
