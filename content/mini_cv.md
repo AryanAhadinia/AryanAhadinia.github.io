@@ -357,6 +357,10 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">React</div>
     </div>
     <div>
+        <img class="logo" src="/Skills/Flutter.png" alt="Flutter">
+        <div class="title">Flutter</div>
+    </div>
+    <div>
         <img class="logo" src="/Skills/Android.png" alt="Android Programming">
         <div class="title">And. Prog.</div>
     </div>
