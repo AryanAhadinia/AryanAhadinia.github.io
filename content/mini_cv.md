@@ -96,8 +96,9 @@ There is a list of my publications with a brief description about them in [publi
 
 ## Teaching Experience
 
-+ **Head Teaching Assistant** of _CE282: Linear Algebra_ for 4 Semesters, Spring 2022, Fall 2022, Spring 2023, Fall 2023. Jointly instructed by Dr. Rabiee and Dr. Ramezani.
-+ **Head Teaching Assistant** of _CE417: Artificial Intelligence_ for 2 Semesters, Spring 2023, and Fall 2023. Jointly instructed by Dr. Rohban and Dr. Soleymani.
++ **Head Teaching Assistant** of _Linear Algebra_ for 4 Semesters, Spring 2022, Fall 2022, Spring 2023, Fall 2023. Jointly instructed by Dr. Rabiee and Dr. Ramezani.
++ **Head Teaching Assistant** of _Artificial Intelligence_ for 2 Semesters, Spring 2023, and Fall 2023. Jointly instructed by Dr. Rohban and Dr. Soleymani.
++ **Teaching Assistant** of _Stochastic Machine Learning_ (Spring 2023: Dr. Rabiee; grad degree course), _Machine Learning Systems Design_ (Spring 2023: Dr. Zarezade; grad degree course), _Probability and Statistics_ (Fall 2021: Dr. Motahari, Spring 2022: Dr. Jafari), _Computer Language and Structure_ (Fall 2022: Dr. Asadi), _Web Programming_ (Fall 2022: Dr. Jafari-nezhad), and _Design of Programming Languages_ (Spring 2022: Dr. Izadi).
 
 ---
 
