@@ -32,6 +32,8 @@ editPost:
 <source src="https://raw.githubusercontent.com/AryanAhadinia/AryanAhadinia.github.io/main/static/Termix/Termix.mp4" type="video/mp4">
 </video>
 
+---
+
 ##### Abstract
 
 
@@ -42,6 +44,10 @@ editPost:
 
 ###### Android Version
 
+---
 
+##### Collaborators
+
+This project has been done in a group work with Mohammad Jafari, Pouriya Momtaz, Shahab Hosseini Moghaddam, and MohammadHossein Kashani
 
 ---
