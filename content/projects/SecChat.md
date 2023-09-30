@@ -29,6 +29,8 @@ editPost:
 
 ##### Abstract
 
+Private messaging is a huge concern in these days.
+
 ---
 
 ##### Technical Requirements
@@ -61,6 +63,6 @@ editPost:
 
 ##### Collaborators
 
-This project has been done in collaboration with Rouzbeh Pirayadi and Arian Yazdanparast.
+This project has been done in collaboration with Rouzbeh Pirayadi and Arian Yazdanparast as a part of _Data and Network Security_ course at Sharif University of Technology.
 
 ---
