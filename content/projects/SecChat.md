@@ -69,8 +69,6 @@ This project has been done in collaboration with Rouzbeh Pirayadi and Arian Yazd
 
 ##### References
 
-[1] Implementing Signal’s Double Ratchet algorithm. nikofil’s blog. 2020. url: https:
-//nfil.dev/coding/encryption/python/double-ratchet-example/ (visited on
-07/01/2023).
+[1] Implementing Signal’s Double Ratchet algorithm. nikofil’s blog. 2020. url: <https://nfil.dev/coding/encryption/python/double-ratchet-example/> (visited on 07/01/2023).
 
 ---
