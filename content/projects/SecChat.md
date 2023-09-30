@@ -23,6 +23,7 @@ editPost:
 ##### Links
 
 + [GitHub](https://github.com/AryanAhadinia/SecChat)
++ [Report](https://github.com/AryanAhadinia/SecChat/blob/main/DNS_Project.pdf)
 
 ---
 
@@ -31,6 +32,25 @@ editPost:
 ---
 
 ##### Technical Requirements
+
++ End-to-end Encryption
++ Perfect Forward Secrecy
++ Perfect Backward Secrecy
++ Key Freshness
++ Messages Integrity
++ Replay Attack Protection
++ Man-in-the-middle Attack Protection
++ Consistency Against Network Errors
++ Authentication
++ Deniability Protection
++ Restricted Access Control
++ Non-interactive Key Exchange
++ Group Chat Protection
++ Traffic Analysis Protection
++ Secure Key Storage
++ Secure Local Storage
++ Key Revocation and Expiration Options
++ Key Verification in a Secondary Channel
 
 ---
 
