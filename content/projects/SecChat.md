@@ -36,6 +36,7 @@ editPost:
 + End-to-end Encryption
 + Perfect Forward Secrecy
 + Perfect Backward Secrecy
++ Scalability
 + Key Freshness
 + Messages Integrity
 + Replay Attack Protection
@@ -55,5 +56,11 @@ editPost:
 ---
 
 ##### Implementation
+
+---
+
+##### Collaborators
+
+This project has been done in collaboration with Rouzbeh Pirayadi and Arian Yazdanparast.
 
 ---
