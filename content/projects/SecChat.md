@@ -5,7 +5,7 @@ show_date: false
 url: /SecChat/
 aliases: 
     - /SecChat.html
-tags: []
+tags: ["Messenger", "Security", "Privacy", "Cryptography", "RSA", "Double Ratchet", "Diffie-Hellman"]
 author: "Aryan Ahadinia, in a group work"
 summary: "" 
 cover:
