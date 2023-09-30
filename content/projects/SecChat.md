@@ -66,3 +66,11 @@ Private messaging is a huge concern in these days.
 This project has been done in collaboration with Rouzbeh Pirayadi and Arian Yazdanparast as a part of _Data and Network Security_ course at Sharif University of Technology.
 
 ---
+
+##### References
+
+[1] Implementing Signal’s Double Ratchet algorithm. nikofil’s blog. 2020. url: https:
+//nfil.dev/coding/encryption/python/double-ratchet-example/ (visited on
+07/01/2023).
+
+---
