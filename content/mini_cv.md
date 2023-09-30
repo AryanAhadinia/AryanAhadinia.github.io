@@ -100,7 +100,7 @@ There is a list of my publications with a brief description about them in [publi
 + **Head Teaching Assistant** of _Artificial Intelligence_ for 2 Semesters, Spring 2023, and Fall 2023. Jointly instructed by Dr. Rohban and Dr. Soleymani.
 + **Teaching Assistant** of _Natural Languages Processing_**<span style="color:red">†</span>** (Dr. Asgari), _Statistical Machine Learning_**<span style="color:red">†</span>** (Dr. Rabiee), _Machine Learning Systems Design_**<span style="color:red">†</span>** (Dr. Zarezade), _Probability and Statistics_ (Dr. Motahari, Dr. Jafari), _Computer Language and Structure_ (Dr. Asadi), _Web Programming_ (Dr. Jafari-nezhad), and _Design of Programming Languages_ (Dr. Izadi).
 
-**<span style="color:red">†</span>** Indicate graduate degree courses in the department of computer engineering at Sharif University of Technology.
+**<span style="color:red">†</span>** indicate graduate degree courses.
 
 ---
 
