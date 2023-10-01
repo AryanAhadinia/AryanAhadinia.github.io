@@ -1,6 +1,7 @@
 ---
 title: "Analyzing and Modeling Observed Signals and Graph Structure in Social Networks" 
 date: 2023-07-18
+order: 2
 show_date: false
 url: /BScThesis/
 aliases: 

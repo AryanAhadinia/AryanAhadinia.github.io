@@ -1,6 +1,7 @@
 ---
 title: "CV Extractor" 
 date: 2023-07-18
+order: 6
 show_date: false
 url: /CVExtractor/
 aliases: 

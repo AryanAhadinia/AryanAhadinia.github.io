@@ -1,6 +1,7 @@
 ---
 title: "Termix" 
 date: 2022-12-01
+order: 1
 show_date: false
 url: /Termix/
 aliases: 
@@ -13,8 +14,8 @@ cover:
     alt: "Termix Scheduling Platform"
     relative: true
 editPost:
-    URL: ""
-    Text: "GitHub"
+    URL: "termix.io"
+    Text: "termix.io"
 
 ---
 
