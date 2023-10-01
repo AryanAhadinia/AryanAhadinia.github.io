@@ -22,9 +22,10 @@ editPost:
 
 ##### Links
 
-+ [GitHub (backend)]()
-+ [GitHub (frontend)]()
++ [GitHub (Backend)]()
++ [GitHub (Frontend)]()
 + [GitHub (Android)]()
++ [termix.io](termix.io) Currently not available because of new updates!
 
 ---
 
