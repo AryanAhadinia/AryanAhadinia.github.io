@@ -5,7 +5,7 @@ show_date: false
 url: /Termix/
 aliases: 
     - /termix.html
-tags: []
+tags: ["Django", "ReactJS", "NodeJS", "ExpressJS", "MongoDB", "PostgreSQL", "Redis", "Nginx", "Google Calendar API", "Android", "Java"]
 author: "Aryan Ahadinia, in a group work"
 summary: "Termix is a scheduling platform for students of Sharif University of Technology. Students can select their courses and schedule their next semester based on their Program and termix will help them to find the best schedule with the least time conflicts. Termix fetch data from the university website and store them in a database. Termix is also integrated with Google Calendar and students can add their schedule to their Google Calendar." 
 cover:
