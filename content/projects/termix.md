@@ -1,16 +1,16 @@
 ---
 title: "Termix" 
-date: 2023-07-18
+date: 2022-12-01
 show_date: false
 url: /Termix/
 aliases: 
     - /termix.html
-tags: ["Django", "ReactJS", "NodeJS", "ExpressJS", "MongoDB", "PostgreSQL", "Redis", "Nginx", "Google Calendar API", "Android", "Java"]
+tags: ["Scheduling", "Sharif University", "Django", "ReactJS", "NodeJS", "ExpressJS", "MongoDB", "PostgreSQL", "Redis", "Nginx", "Google Calendar", "Android", "Java"]
 author: "Aryan Ahadinia, in a group work"
 summary: "Termix is a scheduling platform for students of Sharif University of Technology. Students can select their courses and schedule their next semester based on their Program and termix will help them to find the best schedule with the least time conflicts. Termix fetch data from the university website and store them in a database. Termix is also integrated with Google Calendar and students can add their schedule to their Google Calendar." 
 cover:
     image: "/Termix/cover.png"
-    alt: ""
+    alt: "Termix Scheduling Platform"
     relative: true
 editPost:
     URL: ""
@@ -22,7 +22,9 @@ editPost:
 
 ##### Links
 
-+ [GitHub]()
++ [GitHub (backend)]()
++ [GitHub (frontend)]()
++ [GitHub (Android)]()
 
 ---
 
@@ -58,6 +60,6 @@ Termix is going to have a whole new look and it is going to replace the old vers
 
 ##### Collaborators
 
-This project has been done in a group work with Mohammad Jafari and Pouriya Momtaz.
+This project has been done in a group work with Mohammad Jafari and Pouriya Momtaz. This project was volunteered and we were independent from the university.
 
 ---
