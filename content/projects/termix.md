@@ -57,6 +57,8 @@ Termix also has a Android version which is written in Java and has additional fe
 
 Termix is going to have a whole new look and it is going to replace the old version for the next semester. There is a leakage from the new version of Termix!
 
+![New Termix](/Termix/new_termix.png)
+
 ---
 
 ##### Collaborators
