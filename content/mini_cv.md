@@ -290,28 +290,12 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">Python</div>
     </div>
     <div>
-        <img class="logo" src="/Skills/Julia.png" alt="Julia Language">
-        <div class="title">Julia</div>
-    </div>
-    <div>
         <img class="logo" src="/Skills/JavaScript.png" alt="JavaScript Language">
         <div class="title">JavaScript</div>
     </div>
     <div>
         <img class="logo" src="/Skills/Kotlin.png" alt="Kotlin Language">
         <div class="title">Kotlin</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/Swift.png" alt="Swift Language">
-        <div class="title">Swift</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/R.png" alt="R Language">
-        <div class="title">R</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/Matlab.png" alt="Matlab Language">
-        <div class="title">Matlab</div>
     </div>
     <div>
         <img class="logo" src="/Skills/Dart.png" alt="Dart Language">
@@ -377,16 +361,8 @@ There is a list of my publications with a brief description about them in [publi
         <div class="title">And. Prog.</div>
     </div>
     <div>
-        <img class="logo" src="/Skills/iOS.png" alt="iOS Programming">
-        <div class="title">iOS Prog.</div>
-    </div>
-    <div>
         <img class="logo" src="/Skills/Linux.png" alt="Linux">
         <div class="title">Linux</div>
-    </div>
-    <div>
-        <img class="logo" src="/Skills/MongoDB.png" alt="MongoDB">
-        <div class="title">MongoDB</div>
     </div>
     <div>
         <img class="logo" src="/Skills/PostgreSQL.png" alt="PostgreSQL">
