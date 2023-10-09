@@ -41,7 +41,7 @@ Access to complete data in large-scale networks is often infeasible. Therefore, 
 Maryam Ramezani, Aryan Ahadinia, Amirmohammad Ziaei Bideh, and Hamid R. Rabiee. 2023. Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization. ACM Transaction on Knowledge Discovery from Data 17, 9, Article 132 (November 2023), 28 pages. <https://doi.org/10.1145/3599237>
 
 ```bibtex
-@article{10.1145/3599237,
+@article{2023/ACM/TKDD/DiffStru,
     author = {Ramezani, Maryam and Ahadinia, Aryan and Ziaei Bideh, Amirmohammad and Rabiee, Hamid R.},
     title = {Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization},
     year = {2023},
