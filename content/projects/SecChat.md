@@ -60,6 +60,34 @@ Private messaging is a huge concern in these days.
 
 ##### Implementation
 
+Since the implementation was all from scratch, we had to implement our algorithms and protocols in Python. We have used three different protocol to meet technical requirements.
+
+###### HTTPSL
+
+We proposed HTTPSL protocol for asymmetric communication between two parties. The protocol is somehow similar to the well-known HTTPS protocol, since we names it HTTPSL. Since this kind of communication is rarely used, we had to provide a light-weight protocol for this purpose to speedup and to be able to scale the process. The protocol is as follows:
+
+$$A \longrightarrow B: E(PU_B, M || E(PR_A, H(M)) || TS)$$
+
+which guarantees all of the requirements for an asymmetric request-response communication with only one step of handshaking. This protocol is used for the first time that two parties want to communicate with each other. After that, they can use the other protocols.
+
+###### SSE
+
+Since messaging requires a high speed symmetric communication, we proposed SSE protocol for symmetric communication between two parties. The protocol is as follows:
+
+$$A \longrightarrow B: E(K_{A,B}, M || E(PR_A, H(M)) || TS) || E(PU_B, Token)$$
+
+which guarantees all of the security requirements.
+
+###### Double Ratchet
+
+Since we need both forward and backward secrecy, we need double ratchet algorithm which is a follow. THis protocol renew the keys after each message and also provides a way to decrypt the messages in the past. The is a schema of the protocol:
+
+![Double Ratchet](/SecChat/rat1.png)
+
+![Double Ratchet](/SecChat/rat2.png)
+
+![Double Ratchet](/SecChat/rat3.png)
+
 ---
 
 ##### Collaborators
