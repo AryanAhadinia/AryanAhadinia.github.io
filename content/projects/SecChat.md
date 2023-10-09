@@ -80,7 +80,7 @@ which guarantees all of the security requirements.
 
 ###### Double Ratchet
 
-Since we need both forward and backward secrecy, we need double ratchet algorithm which is a follow. THis protocol renew the keys after each message and also provides a way to decrypt the messages in the past. The is a schema of the protocol:
+Since we need both forward and backward secrecy, we need double ratchet algorithm which is a follow. THis protocol renew the keys after each message and also provides a way to decrypt the messages in the past. The is a schema of the protocol retrieved from [1]:
 
 ![Double Ratchet](/SecChat/rat1.png)
 
