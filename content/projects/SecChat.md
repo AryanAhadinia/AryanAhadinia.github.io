@@ -30,7 +30,7 @@ editPost:
 
 ##### Abstract
 
-Private messaging is a huge concern in these days.
+Private messaging is a huge concern in these days. The requirements for a perfectly private messenger are conflicting to each other and its very hard to aggregate all of them in one messenger so even the most popular messengers like WhatsApp and Telegram are not implementing all of these requirements. In this project, we have tried to implement a messenger which meets all of the requirements for a perfectly private messenger. We have implemented all of the algorithms and protocols from scratch in Python.
 
 ---
 
