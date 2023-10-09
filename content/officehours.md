@@ -8,4 +8,4 @@ description: "Schedule and location for my office hours at the University of Cal
 
 ---
 
-I'm always open to chat with old friends and new people. To set an appointment, just drop me an email.
+I'm always open to chat with old friends and new people. To set an appointment, just drop me an email or send me a message in telegram. I don't check other messengers regularly.
