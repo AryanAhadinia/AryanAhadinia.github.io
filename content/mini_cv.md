@@ -35,7 +35,7 @@ description: "About Aryan Ahadinia"
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 70%;
+        width: 60%;
     }
 
     #education-grid > div > .institution {
@@ -136,7 +136,7 @@ There is a list of my publications with a brief description about them in [publi
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 70%;
+        width: 60%;
     }
 
     #prof-grid > div > .institution {
