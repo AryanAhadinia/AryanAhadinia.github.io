@@ -1,6 +1,7 @@
 ---
 title: "Text Localization in Audio Using Contrastive Learning" 
 date: 2023-03-10
+order: 3
 show_date: false
 url: /AudioTextLocalizer/
 aliases: 

@@ -1,6 +1,7 @@
 ---
 title: "DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property" 
 date: 2023-09-18
+order: 2
 url: /DANI/
 aliases: 
     - /DANI.html

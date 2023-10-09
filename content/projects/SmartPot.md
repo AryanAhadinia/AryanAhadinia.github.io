@@ -1,6 +1,7 @@
 ---
 title: "Smart Pot" 
 date: 2023-07-18
+order: 9
 show_date: false
 url: /SmartPot/
 aliases: 

@@ -1,6 +1,7 @@
 ---
 title: "Numeric Extractor" 
 date: 2022-04-01
+order: 7
 show_date: false
 url: /NumericExtractor/
 aliases: 

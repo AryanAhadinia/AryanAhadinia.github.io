@@ -1,6 +1,7 @@
 ---
 title: "Qoogle: Persian Literature Query Search Engine" 
 date: 2023-07-18
+order: 10
 show_date: false
 url: /Qoogle/
 aliases: 

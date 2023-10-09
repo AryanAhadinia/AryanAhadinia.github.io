@@ -1,6 +1,7 @@
 ---
 title: "Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization" 
 date: 2023-07-18
+order: 1
 url: /DiffStru/
 aliases: 
     - /DiffStru.html
