@@ -24,7 +24,7 @@ menu:
 params:
     description: "I am student at Computer Engineering Department, Sharif University of Technology."
     author: Aryan Ahadinia
-    googleAnalyticsID: "G-97G4MZ4061"
+    # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
