@@ -64,8 +64,6 @@ params:
           url: mailto:aryanahadinia@sharif.edu
         - name: Location
           url: /location/
-        - name: Office Hours
-          url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=C5-a0JIAAAAJ&hl=en
         - name: orcid
