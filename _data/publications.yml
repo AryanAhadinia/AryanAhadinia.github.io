@@ -1,11 +1,12 @@
 main:
 
-  - title: DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property
+  - title: "DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property"
     authors: Maryam Ramezani, <strong>Aryan Ahadinia</strong>, Erfan Farhadi, Hamid R. Rabiee
     conference_short: Scientific Reports
     conference: Nature Scientic Reports, 2024
     pdf: https://www.nature.com/articles/s41598-024-82286-x.pdf
     code: https://github.com/AryanAhadinia/DANI
+    page: https://www.nature.com/articles/s41598-024-82286-x
     image: ./assets/img/teaser_example_2.png
 
   - title: "Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization"
