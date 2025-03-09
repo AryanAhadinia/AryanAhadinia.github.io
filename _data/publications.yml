@@ -1,19 +1,20 @@
 main:
 
-  # - title: DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property
-  #   authors: Maryam Ramezani, <strong>Aryan Ahadinia</strong>, Erfan Farhadi, Hamid R. Rabiee
-  #   conference: Nature Scientic Reports (2024)
-  #   pdf: https://www.nature.com/articles/s41598-024-82286-x.pdf
-  #   code: https://github.com/AryanAhadinia/DANI
-  #   image: ./assets/img/teaser_example_2.png
+  - title: DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property
+    authors: Maryam Ramezani, <strong>Aryan Ahadinia</strong>, Erfan Farhadi, Hamid R. Rabiee
+    conference_short: Scientific Reports
+    conference: Nature Scientic Reports, 2024
+    pdf: https://www.nature.com/articles/s41598-024-82286-x.pdf
+    code: https://github.com/AryanAhadinia/DANI
+    image: ./assets/img/teaser_example_2.png
 
   - title: "Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization"
     authors: Maryam Ramezani, <strong>Aryan Ahadinia</strong>, Amirmohammad Ziaei Bideh, Hamid R. Rabiee
     conference_short: TKDD
-    conference: ACM Transactions on Knowledge Discovery from Data <strong>(TKDD)</strong>
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    conference: ACM Transactions on Knowledge Discovery from Data <strong>(TKDD)</strong>, 2023
     code: https://github.com/maryram/DiffStru
     page: https://dl.acm.org/doi/abs/10.1145/3599237
-    bibtex: 
-    notes: 
     image: ./assets/img/teaser_example.png
+
+    # bibtex: 
+    # notes: 
