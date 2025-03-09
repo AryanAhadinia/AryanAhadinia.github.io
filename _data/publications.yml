@@ -16,4 +16,4 @@ main:
     page: https://dl.acm.org/doi/abs/10.1145/3599237
     # bibtex: 
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example.png
