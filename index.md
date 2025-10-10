@@ -19,6 +19,7 @@ In a nutshell, I am interested in **Machine Learning** and **Data Mining**. More
 - M.Sc. in Computer Science, [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), 2024 - present.
 - B.Sc. in Computer Engineering, [Sharif University of Technology](https://en.sharif.edu/), 2019 - 2023.
 - High School Diploma in Mathmatics-Physics, [Allameh Helli Tehran High School](https://www.helli.ir/), 2016 - 2019.
+
 ## News
 
 - **[October 2025]** Oracle has open-sourced [agent-spec](https://github.com/oracle/agent-spec) and [wayflow](https://github.com/oracle/wayflow) for building agents! Proud to be a very small part of this project during my internship.
