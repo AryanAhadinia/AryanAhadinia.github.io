@@ -1,0 +1,37 @@
+title: Aryan Ahadinia
+position: MSc of CS Student
+affiliation: EPFL
+email: aryan.ahadinia (@) epfl.ch
+
+keywords: Aryan Ahadinia
+description: Aryan Ahadinia's Homepage
+canonical: https://aryanahadinia.github.io/
+
+google_scholar: https://scholar.google.com/citations?user=C5-a0JIAAAAJ&hl=en
+# cv_link: assets/cv.pdf
+github_link: https://github.com/AryanAhadinia/
+linkedin: https://www.linkedin.com/in/ahadinia/
+twitter: https://twitter.com/AryanAhadinia
+
+avatar: /assets/img/avatar.jpeg
+favicon: /assets/img/epfl.jpeg
+favicon_dark: /assets/img/epfl.jpeg
+
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif" # or "Sans Serif"
+
+google_analytics: G-WE94KJ54EQ
+
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

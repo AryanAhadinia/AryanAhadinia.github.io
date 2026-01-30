@@ -1,0 +1,27 @@
+main:
+
+  - title: Symmetry-Aware Bayesian Optimization via Max Kernels
+    authors: Anthony Bardou, Antoine Gonon, <strong>Aryan Ahadinia</strong>, Patrick Thiran
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2509.25051"
+    pdf: "https://arxiv.org/abs/2509.25051"
+    page: "https://arxiv.org/abs/2509.25051"
+    image: /assets/img/papers/2025-sabo.png
+
+  - title: "DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property"
+    authors: Maryam Ramezani, <strong>Aryan Ahadinia</strong>, Erfan Farhadi, and Hamid R. Rabiee
+    conference_short: Scientific Reports
+    conference: "Nature Scientific Reports volume 14, Article number: 31053 (2024)"
+    pdf: "https://www.nature.com/articles/s41598-024-82286-x.pdf"
+    code: "https://github.com/AryanAhadinia/DANI"
+    page: "https://www.nature.com/articles/s41598-024-82286-x"
+    image: /assets/img/papers/2024-dani.png
+
+  - title: Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization
+    authors: Maryam Ramezani, <strong>Aryan Ahadinia</strong>, Amirmohammad Ziaei Bideh, and Hamid R. Rabiee
+    conference_short: TKDD
+    conference: ACM Transactions on Knowledge Discovery from Data <strong>(TKDD)</strong>, Volume 17, Issue 9, 2023
+    pdf: "https://arxiv.org/pdf/2010.01400"
+    code: "https://github.com/maryram/DiffStru"
+    page: "https://dl.acm.org/doi/abs/10.1145/3599237"
+    image: /assets/img/papers/2023-diffstru.png
