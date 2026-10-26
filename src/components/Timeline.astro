@@ -1,0 +1,59 @@
+---
+import { Image } from "astro:assets";
+import type { TimelineEntry } from "@/data/timeline";
+
+type Props = { entries: TimelineEntry[] };
+
+const { entries } = Astro.props;
+---
+
+<ul class="mt-6 space-y-4">
+  {
+    entries.map(entry => (
+      <li class="flex items-center gap-4">
+        {/*
+          Every tile is the same square so the text column lines up; a tile with
+          several logos splits its height between them. The light background
+          keeps dark wordmarks legible in dark mode.
+        */}
+        <div class="border-border flex size-20 shrink-0 flex-col items-center justify-center gap-1.5 overflow-hidden rounded-md border bg-white p-2">
+          {entry.logos.map((logo, index) => (
+            <>
+              {index > 0 && (
+                <span
+                  aria-hidden="true"
+                  class="h-px w-full shrink-0 bg-neutral-200"
+                />
+              )}
+              <Image
+                src={logo.src}
+                alt={logo.alt}
+                widths={[160, 320]}
+                sizes="64px"
+                loading="lazy"
+                class="min-h-0 w-full flex-1 object-contain"
+              />
+            </>
+          ))}
+        </div>
+
+        <div class="min-w-0">
+          <p class="font-medium">{entry.role}</p>
+          <p class="text-sm">
+            {entry.orgUrl ? (
+              <a
+                href={entry.orgUrl}
+                class="hover:text-accent decoration-dashed underline-offset-4 hover:underline"
+              >
+                {entry.org}
+              </a>
+            ) : (
+              entry.org
+            )}
+          </p>
+          <p class="text-muted-foreground text-sm">{entry.period}</p>
+        </div>
+      </li>
+    ))
+  }
+</ul>

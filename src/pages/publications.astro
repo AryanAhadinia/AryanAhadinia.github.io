@@ -1,0 +1,23 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Main from "@/components/Main.astro";
+import Footer from "@/components/Footer.astro";
+import PublicationCard from "@/components/PublicationCard.astro";
+import { publications } from "@/data/publications";
+import config from "@/config";
+
+const description = "Peer-reviewed papers and preprints by Aryan Ahadinia.";
+---
+
+<Layout title={`Publications | ${config.site.title}`} description={description}>
+  <Header />
+  <Breadcrumb />
+  <Main pageTitle="Publications" pageDesc={description}>
+    <ul>
+      {publications.map(publication => <PublicationCard {...publication} />)}
+    </ul>
+  </Main>
+  <Footer />
+</Layout>

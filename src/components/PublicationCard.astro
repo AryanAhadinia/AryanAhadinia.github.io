@@ -1,0 +1,102 @@
+---
+import { Image, getImage } from "astro:assets";
+import type { Publication } from "@/data/publications";
+import { HIGHLIGHT_AUTHOR } from "@/data/publications";
+import LinkButton from "./LinkButton.astro";
+
+type Props = Publication;
+
+const { title, authors, venueShort, venue, image, video, links, note } =
+  Astro.props;
+
+const primaryUrl = links[0]?.url;
+
+const poster = video ? await getImage({ src: image, width: 480 }) : undefined;
+---
+
+<li
+  class="border-border grid gap-4 border-b py-6 last:border-b-0 sm:grid-cols-[10rem_1fr] sm:gap-6"
+>
+  <div class="relative">
+    {
+      video ? (
+        <video
+          src={video}
+          poster={poster?.src}
+          autoplay
+          muted
+          loop
+          playsinline
+          preload="metadata"
+          aria-label={`Teaser video for “${title}”`}
+          class="border-border w-full rounded-md border object-cover"
+        />
+      ) : (
+        <Image
+          src={image}
+          alt={`Teaser figure for “${title}”`}
+          widths={[320, 480]}
+          sizes="(min-width: 640px) 10rem, 100vw"
+          loading="lazy"
+          class="border-border w-full rounded-md border object-cover"
+        />
+      )
+    }
+    <span
+      class="bg-accent text-accent-foreground absolute -start-2 -top-2 rounded px-2 py-0.5 text-xs font-semibold shadow-sm"
+    >
+      {venueShort}
+    </span>
+  </div>
+
+  <div class="min-w-0">
+    <h2 class="text-lg leading-snug font-medium">
+      {
+        primaryUrl ? (
+          <a
+            href={primaryUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-accent decoration-dashed underline-offset-4 hover:underline"
+          >
+            {title}
+          </a>
+        ) : (
+          title
+        )
+      }
+    </h2>
+
+    <p class="mt-1 text-sm">
+      {
+        authors.map((author, i) => (
+          <>
+            {i > 0 && ", "}
+            {author === HIGHLIGHT_AUTHOR ? <strong>{author}</strong> : author}
+          </>
+        ))
+      }
+    </p>
+
+    <p class="text-muted-foreground mt-1 text-sm italic">{venue}</p>
+
+    {note && <p class="text-accent mt-1 text-sm font-semibold">{note}</p>}
+
+    {
+      links.length > 0 && (
+        <div class="mt-3 flex flex-wrap gap-2">
+          {links.map(({ label, url }) => (
+            <LinkButton
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="border-border hover:border-accent rounded border px-2.5 py-1 text-xs font-medium"
+            >
+              {label}
+            </LinkButton>
+          ))}
+        </div>
+      )
+    }
+  </div>
+</li>

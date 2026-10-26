@@ -1,0 +1,221 @@
+---
+import { Image } from "astro:assets";
+import { getCollection } from "astro:content";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+import timezone from "dayjs/plugin/timezone";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Socials from "@/components/Socials.astro";
+import LinkButton from "@/components/LinkButton.astro";
+import Timeline from "@/components/Timeline.astro";
+import avatar from "@/assets/images/avatar.jpeg";
+import { timeline } from "@/data/timeline";
+import { getSortedPosts } from "@/utils/getSortedPosts";
+import { getPostUrl } from "@/utils/getPostPaths";
+import { useTranslations } from "@/i18n";
+import config from "@/config";
+
+dayjs.extend(utc);
+dayjs.extend(timezone);
+
+const { socials, site, posts: postsConfig } = config;
+
+const locale = Astro.currentLocale ?? site.lang;
+const t = useTranslations(locale);
+
+const posts = await getCollection("posts");
+const newsPosts = getSortedPosts(posts).slice(0, postsConfig.perIndex);
+
+const homePath = getRelativeLocaleUrl(locale, "");
+---
+
+<Layout>
+  <Header />
+  <main
+    id="main-content"
+    data-layout="index"
+    data-home-path={homePath}
+    class="app-layout my-1"
+  >
+    <section id="hero" class="border-border border-b pt-8 pb-6">
+      <div class="flex flex-col gap-6 sm:flex-row-reverse sm:items-start">
+        <Image
+          src={avatar}
+          alt="Portrait of Aryan Ahadinia"
+          widths={[160, 320]}
+          sizes="160px"
+          loading="eager"
+          class="border-border size-32 shrink-0 rounded-full border object-cover sm:size-40"
+        />
+
+        <div class="min-w-0 grow">
+          <h1 class="my-2 inline-block text-4xl font-bold sm:my-3 sm:text-5xl">
+            Aryan Ahadinia
+          </h1>
+
+          <p class="text-muted-foreground mt-1">
+            Master of Computer Science at{" "}
+            <a
+              href="https://www.epfl.ch/en/"
+              class="hover:text-accent decoration-dashed underline-offset-4 hover:underline"
+            >
+              EPFL
+            </a>
+          </p>
+          <p class="text-muted-foreground">
+            RA at ETH/EPFL AI Center (Apertus)
+          </p>
+        </div>
+      </div>
+
+      <p class="mt-6">
+        I am a Master's student in Computer Science at{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://www.epfl.ch/en/"
+        >
+          EPFL
+        </LinkButton>{" "}
+        and a Research Assistant at the{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://ai.epfl.ch/"
+        >
+          ETH/EPFL AI Center
+        </LinkButton>, where I work on inference and infrastructure for the{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://www.swiss-ai.org/apertus"
+        >
+          Apertus
+        </LinkButton>{" "}
+        LLM project.
+      </p>
+      <p class="mt-2">
+        Before that, I spent six months as a research intern at{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://labs.oracle.com/"
+        >
+          Oracle Labs
+        </LinkButton>, working on{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://github.com/oracle/agent-spec"
+        >
+          AgentSpec
+        </LinkButton>{" "}
+        and{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://github.com/oracle/wayflow"
+        >
+          WayFlow
+        </LinkButton>, Oracle's open-source libraries for building agents. My
+        semester project at{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://indy.epfl.ch/"
+        >
+          INDY
+        </LinkButton>, EPFL, on symmetry-aware Bayesian optimization led to a
+        paper at ICLR 2026. I received my B.Sc. in Computer Engineering from{
+          " "
+        }
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href="https://en.sharif.edu/"
+        >
+          Sharif University of Technology
+        </LinkButton>, where my thesis was on graph mining in social networks.
+      </p>
+      <p class="mt-2">
+        I am interested in LLMs, particularly in making them efficient through
+        better systems, and in the theoretical foundations of machine learning.
+        Browse my{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href={getRelativeLocaleUrl(locale, "publications")}
+        >
+          publications
+        </LinkButton>{" "}
+        or{" "}
+        <LinkButton
+          class="hover:text-accent underline decoration-dashed underline-offset-4"
+          href={getRelativeLocaleUrl(locale, "posts")}
+        >
+          posts
+        </LinkButton>.
+      </p>
+
+      {
+        socials.length > 0 && (
+          <div class="mt-4 flex max-sm:flex-col sm:items-center">
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">
+              {t.home.socialLinks}:
+            </div>
+            <Socials />
+          </div>
+        )
+      }
+    </section>
+
+    <section id="highlight" class="border-border border-b pt-12 pb-6">
+      <h2 class="text-2xl font-semibold tracking-wide">{t.home.highlight}</h2>
+      <Timeline entries={timeline} />
+    </section>
+
+    {
+      newsPosts.length > 0 && (
+        <section id="news" class="pt-12 pb-6">
+          <h2 class="text-2xl font-semibold tracking-wide">{t.home.news}</h2>
+          <ul class="mt-4">
+            {newsPosts.map(({ id, data, filePath }) => (
+              <li class="my-4 sm:flex sm:gap-3">
+                <span class="text-muted-foreground shrink-0 text-sm whitespace-nowrap sm:w-24 sm:pt-1">
+                  <time datetime={dayjs(data.pubDatetime).toISOString()}>
+                    {dayjs(data.pubDatetime)
+                      .tz(data.timezone ?? site.timezone)
+                      .format("MMM YYYY")}
+                  </time>
+                </span>
+                <div class="min-w-0">
+                  <a
+                    href={getPostUrl(id, filePath, locale)}
+                    class="text-accent font-medium decoration-dashed underline-offset-4 hover:underline"
+                  >
+                    {data.title}
+                  </a>
+                  <p class="text-sm">{data.description}</p>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <div class="my-8 text-center">
+      <LinkButton href={getRelativeLocaleUrl(locale, "posts")}>
+        {t.home.allNews}
+        <IconArrowRight class="inline-block rtl:-rotate-180" />
+      </LinkButton>
+    </div>
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const indexLayout = (document.querySelector("#main-content") as HTMLElement)
+      ?.dataset;
+    const baseRoot = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+    if (indexLayout?.layout) {
+      sessionStorage.setItem("backUrl", indexLayout.homePath ?? baseRoot);
+    }
+  });
+</script>
